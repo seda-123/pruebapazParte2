@@ -4,7 +4,7 @@ namespace pruebapazParte2
     {
         public Form1()
         {
-            InitializeComponent();
+            InitializeComponent(); // soy Denys y me gusta Jaume
         }
     }
 }
