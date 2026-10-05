@@ -5,6 +5,7 @@ namespace pruebapazParte2
         public Form1()
         {
             InitializeComponent(); // soy Denys y me gusta Jaume
+            // Soy Jaume y no me gusta Denys =)
         }
     }
 }
