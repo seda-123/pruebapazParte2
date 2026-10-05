@@ -6,6 +6,7 @@ namespace pruebapazParte2
         {
             InitializeComponent(); // soy Denys y me gusta Jaume
             // Soy Jaume y no me gusta Denys =)
+            // Soy Marc y nadie me quiere =(
         }
     }
 }
